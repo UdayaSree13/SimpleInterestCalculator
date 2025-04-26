@@ -13,3 +13,8 @@ It is intended as part of an initiative to migrate code management from SVN to G
 3. Run the script using the following command:
    ```bash
    bash simple-interest.sh
+4. Enter the required inputs when prompted:
+Principal amount
+Rate of interest
+Time period (in years)
+5. The script will calculate and display the simple interest.
